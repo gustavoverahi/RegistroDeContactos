@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NoteBook</string>
+    <string name="input_nombre">Nombre completo</string>
+    <string name="select_date">Selecciona</string>
+    <string name="telephone">Telefono</string>
+    <string name="email">Email</string>
+    <string name="description_user">Descripcion contacto</string>
+    <string name="btn_siguiente">Siguiente</string>
+
+    <string name="confirm_data_user">Confirmar datos</string>
+    <string name="birth_date">Fecha de nacimiento:</string>
+    <string name="phone_user">Numero de telefono:</string>
+    <string name="email_data">Email:</string>
+    <string name="description_data">Descripcion del contacto:</string>
+    <string name="btn_edit_data">Editar datos</string>
+</resources>
